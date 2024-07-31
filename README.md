@@ -24,7 +24,7 @@ To get started with this project:
     mv SKILLSPRINT /opt/lampp/htdocs/
 ```
 on windows
-move `SKILLSPRINT C:\xampp\htdocs\`
+move `SKILLSPRINT` to ` C:\xampp\htdocs\`
 
 3. **Navigate to the Project Directory**
 ```bash
