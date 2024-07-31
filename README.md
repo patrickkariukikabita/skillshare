@@ -1,5 +1,5 @@
 
-# SKILLSPRINT: A PHP, MySQL, JQuery, and TinyMCE Open-Source Skill-Sharing Platform.
+# SKILLSPRINT: A PHP, MySQL, JQuery, and Quill.js Open-Source Skill-Sharing Platform.
 
 ## Languages Used:
 1. PHP
