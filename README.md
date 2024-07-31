@@ -21,7 +21,7 @@ To get started with this project:
 
     Upload all project files to the root directory of your web server. Example:
 ```bash
-    mv SKILLSPRINT/* /opt/lampp/htdocs/
+    mv SKILLSPRINT /opt/lampp/htdocs/
 ```
 
 3. **Navigate to the Project Directory**
