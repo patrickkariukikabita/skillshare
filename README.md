@@ -19,10 +19,12 @@ To get started with this project:
 
 2. **Upload the Project to the Server Root**
 
-    Upload all project files to the root directory of your web server. Example:
+    Upload all project files to the root directory of your web server. Example on linux:
 ```bash
     mv SKILLSPRINT /opt/lampp/htdocs/
 ```
+on windows
+`move SKILLSPRINT C:\xampp\htdocs\`
 
 3. **Navigate to the Project Directory**
 ```bash
